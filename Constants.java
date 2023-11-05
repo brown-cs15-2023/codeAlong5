@@ -1,4 +1,4 @@
-package workshop5stencil;
+package codeAlong5;
 
 public class Constants {
     public static final int SCENE_WIDTH = 900;

@@ -1,4 +1,4 @@
-package workshop5stencil;
+package codeAlong5;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
